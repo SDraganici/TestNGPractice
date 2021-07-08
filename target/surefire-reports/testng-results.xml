@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-07T19:37:13 HAE" name="Surefire suite" finished-at="2021-07-07T19:37:13 HAE" duration-ms="32">
+    <groups>
+    </groups>
+    <test started-at="2021-07-07T19:37:13 HAE" name="Surefire test" finished-at="2021-07-07T19:37:13 HAE" duration-ms="32">
+      <class name="RegisterTest">
+        <test-method signature="registerAdmin()[pri:0, instance:RegisterTest@63475ace]" started-at="2021-07-07T19:37:13 HAE" name="registerAdmin" finished-at="2021-07-07T19:37:13 HAE" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerAdmin -->
+        <test-method signature="registerEmployee()[pri:0, instance:RegisterTest@63475ace]" started-at="2021-07-07T19:37:13 HAE" name="registerEmployee" finished-at="2021-07-07T19:37:13 HAE" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerEmployee -->
+        <test-method signature="registerGuest()[pri:0, instance:RegisterTest@63475ace]" started-at="2021-07-07T19:37:13 HAE" name="registerGuest" finished-at="2021-07-07T19:37:13 HAE" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerGuest -->
+      </class> <!-- RegisterTest -->
+      <class name="LogoutTest">
+        <test-method signature="logoutGuest()[pri:0, instance:LogoutTest@587e5365]" started-at="2021-07-07T19:37:13 HAE" name="logoutGuest" finished-at="2021-07-07T19:37:13 HAE" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutGuest -->
+        <test-method signature="logoutEmployee()[pri:0, instance:LogoutTest@587e5365]" started-at="2021-07-07T19:37:13 HAE" name="logoutEmployee" finished-at="2021-07-07T19:37:13 HAE" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutEmployee -->
+        <test-method signature="logoutAdmin()[pri:0, instance:LogoutTest@587e5365]" started-at="2021-07-07T19:37:13 HAE" name="logoutAdmin" finished-at="2021-07-07T19:37:13 HAE" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutAdmin -->
+      </class> <!-- LogoutTest -->
+      <class name="LoginTest">
+        <test-method signature="loginAdmin()[pri:0, instance:LoginTest@b2c9a9c]" started-at="2021-07-07T19:37:13 HAE" name="loginAdmin" finished-at="2021-07-07T19:37:13 HAE" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAdmin -->
+        <test-method signature="loginGuest()[pri:0, instance:LoginTest@b2c9a9c]" started-at="2021-07-07T19:37:13 HAE" name="loginGuest" finished-at="2021-07-07T19:37:13 HAE" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginGuest -->
+        <test-method signature="loginEmployee()[pri:0, instance:LoginTest@b2c9a9c]" started-at="2021-07-07T19:37:13 HAE" name="loginEmployee" finished-at="2021-07-07T19:37:13 HAE" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginEmployee -->
+      </class> <!-- LoginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
